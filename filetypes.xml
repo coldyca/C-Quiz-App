@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="teren" type="Images" />
+      <mapping pattern="butonrotund" type="XML" />
+      <mapping pattern="cImage" type="XML" />
+    </extensionMap>
+  </component>
+</application>
